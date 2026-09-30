@@ -1,7 +1,7 @@
 # Installation guide
 
 This takes you from nothing to a bot that writes and publishes Facebook Page posts
-on its own. Everything used here is free, and **you do not need to write any
+on its own - like this page: https://www.facebook.com/people/Ride-Maxi-Cabs/61593649937292/. Everything used here is free, and **you do not need to write any
 code** — there is nothing to download, compile or run on your computer.
 
 Set aside about 30 minutes the first time.
